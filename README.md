@@ -12,4 +12,4 @@ ESPECIALISTA
 #### Cassiano Peres
 Instrutor, Digital Innovation One
 
-https://web.digitalinnovation.one/lab/boas-praticas-com-dynamodb/learning/22dcae08-c103-4535-9298-c9d1f080e1b2
+https://web.dio.me/lab/boas-praticas-com-dynamodb/learning/1aac4954-c041-4bb1-bd31-2a821553903d
