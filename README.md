@@ -12,4 +12,4 @@ ESPECIALISTA
 #### Cassiano Peres
 Instrutor, Digital Innovation One
 
-https://web.dio.me/lab/boas-praticas-com-dynamodb/learning/1aac4954-c041-4bb1-bd31-2a821553903d
+[https://web.dio.me/lab/boas-praticas-com-dynamodb/learning/1aac4954-c041-4bb1-bd31-2a821553903d](https://web.dio.me/project/boas-praticas-com-dynamodb/learning/265005cd-6f90-4d04-b745-b94a9079355f?back=/track/banco-pan-java-developer&tab=undefined&moduleId=undefined)
